@@ -2,6 +2,7 @@
 # ====================================================================
 # - https://github.com/junegunn/dotfiles
 # - junegunn.c@gmail.com
+# - dungleviethoang@gmail.com
 
 # System default
 # --------------------------------------------------------------------
